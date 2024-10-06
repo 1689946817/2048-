@@ -1,0 +1,2 @@
+C:\Users\张琪\source\repos\c++课设\x64\Debug\c++课设.exe
+C:\Users\张琪\Desktop\2048游戏-张琪-赵飞宇-肖博仁\c++课设\x64\Debug\c++课设.exe
